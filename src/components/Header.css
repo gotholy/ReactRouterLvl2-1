@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  padding: 10px;
+}
+
+nav a {
+  padding: 30px;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 25px;
+  margin-right: 2vw;
+  color: white;
+  background-color: rgba(230, 219, 205, 0.244);
+}
